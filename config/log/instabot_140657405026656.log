@@ -1,0 +1,44 @@
+2020-09-27 18:42:13,888 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-09-27 18:42:13,888 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Apple/opt/anaconda3/lib/python3.8/site-packages/instabot/bot/bot.py
+2020-09-27 18:42:13,891 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-09-27 18:42:13,892 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-09-27 18:42:13,892 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /Users/Apple/Desktop/HereWeGo/config/HereWeGo.SIK_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=06d40147-d40c-4d73-b4b2-b6ad0dbd3c80
+- uuid=38d01e76-77ac-4d1a-a0ac-8f213ab34f36
+- client_session_id=fef65f93-dba0-45d0-b3d4-ff82f3931f4d
+- device_id=android-123455c489cdb6b6
+2020-09-27 18:42:13,893 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-09-27 18:42:15,378 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-09-27 18:42:15,764 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-09-27 18:42:16,124 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-09-27 18:42:16,457 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-09-27 18:42:16,883 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-09-27 18:42:17,782 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-09-27 18:42:18,480 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-09-27 18:42:18,802 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-09-27 18:42:19,224 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-09-27 18:42:19,236 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'HereWeGo.SIK'!
+2020-09-27 18:42:19,236 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/Apple/Desktop/HereWeGo/config/HereWeGo.SIK.checkpoint
+2020-09-27 18:42:41,510 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-09-27 18:42:41,818 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-09-27 18:42:41,818 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/Users/Apple/Desktop/HereWeGo/instagram/2020-09-22_20-27-57_UTC.jpg' is uploaded.
+2020-09-27 18:42:41,827 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-09-27 18:42:41,828 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/Apple/opt/anaconda3/lib/python3.8/site-packages/instabot/bot/bot.py
+2020-09-27 18:42:41,829 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-09-27 18:42:41,829 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-09-27 18:42:41,829 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /Users/Apple/Desktop/HereWeGo/config/HereWeGo.SIK_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=06d40147-d40c-4d73-b4b2-b6ad0dbd3c80
+- uuid=38d01e76-77ac-4d1a-a0ac-8f213ab34f36
+- client_session_id=3a9b6e91-f52d-427e-802c-8039642dbbac
+- device_id=android-123455c489cdb6b6
+2020-09-27 18:42:41,835 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-09-27 18:42:42,912 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-09-27 18:42:43,300 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-09-27 18:42:43,308 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'HereWeGo.SIK'!
+2020-09-27 18:42:43,309 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/Apple/Desktop/HereWeGo/config/HereWeGo.SIK.checkpoint
+2020-09-27 18:45:22,357 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/Apple/Desktop/HereWeGo/config/HereWeGo.SIK.checkpoint
+2020-09-27 18:45:22,362 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37
+2020-09-27 18:45:22,362 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/Apple/Desktop/HereWeGo/config/HereWeGo.SIK.checkpoint
+2020-09-27 18:45:22,363 - instabot version: 0.117.0 (bot) - INFO - Total requests: 39
